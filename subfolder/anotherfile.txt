@@ -1,0 +1,1 @@
+Probably the hardest to do but uses the least amount of work and has the most potential to go wrong, that is the Terminal Method. If you open up terminal (Applications > Utilities) and type the following:
